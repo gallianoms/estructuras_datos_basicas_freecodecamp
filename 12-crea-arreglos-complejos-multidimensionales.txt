@@ -1,0 +1,18 @@
+let myNestedArray = [
+  // Cambia solo el código debajo de esta línea
+  ['string'],
+  [
+    ['deep']
+  ],
+  [
+    [
+      ['deeper']
+    ],
+    [
+      [
+        ['deepest']
+      ]
+    ]
+  ]
+  // Cambia solo el código encima de esta línea
+];
